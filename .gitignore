@@ -1,0 +1,8 @@
+bin/
+*.com
+*.rel
+*.prn
+*.sym
+
+tmp
+\#*
