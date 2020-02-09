@@ -3,7 +3,7 @@
 							* 23jun87abu *
 							**************
 
-		8kLisp is a very compact Lisp implementation, whose opject code
+		8kLisp is a very compact Lisp implementation, whose object code
 		size is - as the name says - exactly 8 kBytes
 
 		How to invoke and exit 8kLisp:
@@ -173,7 +173,7 @@
 				-> 7
 
 		(apply 'foo 'list) -> any
-			Apply the funtion to the argument list.
+			Apply the function to the argument list.
 			Example:
 				:(apply '+ '(3 4))
 				-> 7
