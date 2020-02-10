@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- Added *if* function
+
 ### Fixed
 - Fixed typos in 8kl.doc
 - Fixed example in 8kl.doc

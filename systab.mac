@@ -183,6 +183,7 @@ PROTECT::
 	SYMB 0,UNTIL,"until"
 	SYMB 0,WHILE,"while"
 	SYMB 0,DO,"do"
+	SYMB 0,IF,"if"
 
 ;LAST SYMBOL
 	DB	16
