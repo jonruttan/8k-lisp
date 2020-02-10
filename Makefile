@@ -53,3 +53,6 @@ files:
 
 difflist:
 	@for f in $(FILES); do git diff --quiet $$f >/dev/null || echo $$f; done
+
+run: $(PROG_NAME).com
+	$(CPM) $(PROG_NAME)
