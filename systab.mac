@@ -184,6 +184,7 @@ PROTECT::
 	SYMB 0,WHILE,"while"
 	SYMB 0,DO,"do"
 	SYMB 0,IF,"if"
+	SYMB 0,WHEN,"when"
 
 ;LAST SYMBOL
 	DB	16
