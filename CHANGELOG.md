@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Fixed
+- Fixed typos in 8kl.doc
+- Fixed example in 8kl.doc
+
 
 ## [0.0.0-23jun87abu] - 2020-02-08
 
