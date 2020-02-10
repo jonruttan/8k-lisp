@@ -182,7 +182,8 @@ PROTECT::
 	SYMB 0,REPTN,"reptn"
 	SYMB 0,UNTIL,"until"
 	SYMB 0,WHILE,"while"
-	SYMB 0,DO,"do"
+;; Removed undocumented do function due to size restrictions
+;	SYMB 0,DO,"do"
 	SYMB 0,IF,"if"
 	SYMB 0,WHEN,"when"
 	SYMB 0,UNLESS,"unless"

@@ -13,6 +13,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added *unless* function
 - Added *cond* function
 
+### Removed
+- Removed undocumented *do* function due to size restrictions
+
 ### Fixed
 - Fixed typos in 8kl.doc
 - Fixed example in 8kl.doc
