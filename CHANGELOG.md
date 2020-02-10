@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Added *if* function
 - Added *when* function
+- Added *unless* function
 
 ### Fixed
 - Fixed typos in 8kl.doc
